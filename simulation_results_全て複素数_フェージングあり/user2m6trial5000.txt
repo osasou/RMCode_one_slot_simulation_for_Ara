@@ -1,0 +1,21 @@
+    "EbN0"    "0"    "dB"    "prop_packet"    "0.9655"
+
+    "EbN0"    "2"    "dB"    "prop_packet"    "0.8955"
+
+    "EbN0"    "4"    "dB"    "prop_packet"    "0.7205"
+
+    "EbN0"    "6"    "dB"    "prop_packet"    "0.444"
+
+    "EbN0"    "8"    "dB"    "prop_packet"    "0.231"
+
+    "EbN0"    "10"    "dB"    "prop_packet"    "0.131"
+
+    "EbN0"    "12"    "dB"    "prop_packet"    "0.099"
+
+    "EbN0"    "14"    "dB"    "prop_packet"    "0.1055"
+
+    "EbN0"    "16"    "dB"    "prop_packet"    "0.086"
+
+    "EbN0"    "18"    "dB"    "prop_packet"    "0.105"
+
+    "EbN0"    "20"    "dB"    "prop_packet"    "0.113"
